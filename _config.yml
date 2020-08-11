@@ -17,7 +17,7 @@ description: 안녕하세요 Ray Lee의 블로그 입니다!
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'protocol://domain'
 
-author: your_full_name                  # change to your full name
+author: Ray Lee                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
@@ -29,7 +29,7 @@ twitter:
 
 social:
   name:                   # it will shows as the copyright owner in Footer
-  email: @doamin.com             # change to your email address
+  email: kyunwoo87@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     
@@ -48,7 +48,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Seoul
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
